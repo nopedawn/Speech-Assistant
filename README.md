@@ -12,3 +12,5 @@ API:
 - Google Speech Recognition
 
 &copy; 2020 by nopedawn
+
+#hacktoberfest2021
